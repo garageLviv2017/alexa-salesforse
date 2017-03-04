@@ -7,3 +7,4 @@
 
 # MavensMate: Unrecognized package.xml metadata type: MatchingRule. See MatchingRules instead
 MatchingRule/*
+flows/*
